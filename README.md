@@ -1,5 +1,5 @@
 # ABD
-Práctica final de la asignatura Ampliación de Bases de Datos
+Práctica final de la asignatura Ampliación de Bases de Datos. (ABD-GII).
 
 El objetivo de la práctica es la constucción de un sitio web de mensajería para melómanos. Son posibles varios niveles de especificación:
 
